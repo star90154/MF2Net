@@ -1,4 +1,4 @@
-# Defect Feature Fusion
+# MF2Net (A multi-level visual feature fusion method) 
 
 This repository contains a complete pipeline for industrial defect image classification using a multi-level feature fusion approach. The system integrates contour-based structural features (Hu Moments) and deep semantic features (EfficientNet), followed by classification using SVM and Random Forest with a fusion decision strategy.
 
