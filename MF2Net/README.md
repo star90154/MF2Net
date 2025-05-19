@@ -14,4 +14,5 @@ This repository contains a complete pipeline for industrial defect image classif
 ## Dataset
 
 Due to confidentiality concerns and the risk of technology leakage related to manufacturing companies, the full dataset is not publicly available. Only a few example images used in the published paper are included for demonstration purposes.
+Researchers who are interested in validating the proposed method or conducting related academic studies are welcome to contact the authors to discuss potential data access under appropriate agreements or collaborative frameworks.
 
